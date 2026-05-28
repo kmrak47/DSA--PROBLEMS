@@ -1,1 +1,2 @@
-### DSA Practice - All code
+### DSA Practice - basic math and recursion
+
